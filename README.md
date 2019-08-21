@@ -6,8 +6,8 @@ _This aught to work but should be considered experimental for the time being unt
 
 ## Prerequisites
 
-* [pdsl](https://github.com/ryardley/pdsl) (v3.5.4 or greater)
-* [Babel v7.5+](https://babeljs.io/)
+* [pdsl](https://github.com/ryardley/pdsl) (v3.5.4+)
+* [Babel](https://babeljs.io/) (v7.5+)
 
 ## Installation
 
