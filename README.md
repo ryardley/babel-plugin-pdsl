@@ -1,6 +1,6 @@
 # `@pdsl/babel-plugin-pdsl`
 
-This plugin speeds up [`pdsl`](https://github.com/ryardley/pdsl) in babelified codebases by pre-compiling p-expressions to predicate function definitions.
+This plugin speeds up `pdsl` in babelified codebases by pre-compiling p-expressions to predicate function definitions.
 
 _This might be considered experimental for the time being._
 
