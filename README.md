@@ -34,7 +34,7 @@ _NOTE: Ensure the plugin is placed before any module resolution plugins._
 
 ## How this works
 
-This plugin parses p-expressions and repaces them with function calls:
+This plugin parses p-expressions and repaces them with helper function calls in your code:
 
 #### Input
 
