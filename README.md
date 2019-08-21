@@ -2,7 +2,7 @@
 
 This plugin speeds up `pdsl` in babelified codebases by pre-compiling p-expressions to predicate function definitions.
 
-_This might be considered experimental for the time being._
+_This aught to work but should be considered experimental for the time being until we have more tests around it._
 
 ## Prerequisites
 
