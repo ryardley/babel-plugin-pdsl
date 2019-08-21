@@ -6,7 +6,8 @@ _This aught to work but should be considered experimental for the time being unt
 
 ## Prerequisites
 
-Ensure you have [`pdsl`](https://github.com/ryardley/pdsl) installed in your project.
+* [pdsl](https://github.com/ryardley/pdsl) (v3.5.4 or greater)
+* [Babel v7.5+](https://babeljs.io/)
 
 ## Installation
 
