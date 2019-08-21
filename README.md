@@ -1,4 +1,4 @@
-# `@pdsl/babel-plugin-pdsl`
+# @pdsl/babel-plugin-pdsl
 
 This plugin speeds up `pdsl` in babelified codebases by pre-compiling p-expressions to predicate function definitions.
 
